@@ -19,7 +19,7 @@
     "purescript-argonaut-core": "^5.0.0",
     "purescript-argonaut-codecs": "^6.0.1",
     "purescript-generics-rep": "^6.1.0",
-    "purescript-record": "^1.0.0"
+    "purescript-record": "^2.0.0"
   },
   "devDependencies": {
     "purescript-assert": "^4.0.0",
